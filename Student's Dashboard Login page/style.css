@@ -1,0 +1,30 @@
+body{
+   background-color: aliceblue;
+}
+.navbar{
+    background-color: rgb(11, 239, 239);
+    list-style-type: none;
+    text-align: left;
+    margin-top: auto;
+    padding: 0%;
+    height: 75;
+}
+.navbar ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    margin-top: auto;
+}
+.navbar li{
+      display: inline-block;
+      font-size: 20px;
+      padding: 20px;
+      margin-top: auto;
+}
+.navbar h1{
+    font-style: normal;
+    font-size: 50;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 17;
+}
