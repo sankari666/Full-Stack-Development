@@ -1,0 +1,64 @@
+body{
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width: 500px;
+    margin: 250px auto;
+    padding: 10px 20px 30px;
+    background-color: #f0f8ff;
+    color: black;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.container h3{
+    text-align: center;
+    color: rgb(101, 101, 237);
+}
+.container label{
+    display: block;
+}
+.container input{
+    width: 100%;
+    font-size: 1.2em;
+    border: 1px solid blue;
+    border-radius: 8px;
+    box-shadow: 2px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    margin: 5px 0px 15px;
+}
+input:focus{
+    background-color: rgb(147, 147, 238);
+}
+.btn1{
+    text-align: center;
+}
+.btn2{
+    text-align: center;
+}
+.btn1{
+    text-align: center;
+    background-color: aqua;
+    font-size: 30px;
+    color: black;
+    margin-top: 20px;
+    padding: 15px 25px;
+    border-radius: 8px;
+    border: 1px solid #006D77;
+    box-shadow:2px;    
+    justify-content: center;
+}
+.btn2{
+     text-align: center;
+    background-color: aqua;
+    font-size: 30px;
+    color: black;
+    margin-top: 20px;
+    padding: 15px 25px;
+    border-radius: 8px;
+    border: 1px solid #006D77;
+    box-shadow:2px;    
+    justify-content: center;
+}
+
