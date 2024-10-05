@@ -1,1 +1,42 @@
-
+<html>
+<head>
+    <title>Bakground Change Automtic - COUNTDOWN TIMER</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="C:\Users\nithu\OneDrive\Desktop\COUNTDOWN TIMER WEBSITE\style.css">
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=64fb1ed3536c8c00193bf6b6&product=inline-share-buttons&source=platform" async="async"></script>
+</head>
+<body>
+<div class="wrapper">
+        <div class = "Section_top">
+        <div class="">
+            <h1 class="title"><span>COUNTDOWN TIMER</span></h1>
+        </div>
+        <div class="container">
+            
+            <div class="countdown-container">
+                <div>
+                    <p id="days" class="big-text">0</p>
+                    <span>Days</span>
+                </div>
+                <div>
+                    <p id="hours" class="big-text">0</p>
+                    <span>Hours</span>
+                </div>
+                <div>
+                    <p id="min" class="big-text">0</p>
+                    <span>Min</span>
+                </div>
+                <div>
+                    <p id="sec" class="big-text">0</p>
+                    <span>Sec</span>
+                </div>
+        </div>
+        <div class="sharethis-inline-share-buttons"></div>
+    </div>
+</div>
+    <script src="C:\Users\nithu\OneDrive\Desktop\COUNTDOWN TIMER WEBSITE\app.js"></script>
+    </div>
+</body>
+</html>
